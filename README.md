@@ -1,4 +1,4 @@
-# Machine Learning - Probabilistic Neural Neutron
+# Machine Learning  Probabilistic Neural Neutron
 Probabilistic Neural Neutron code example
 
 Assumption: You already understand the concept of Probabilistic Neural Neutron
