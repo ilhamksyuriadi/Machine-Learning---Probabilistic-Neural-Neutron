@@ -1,3 +1,3 @@
 1. Run the code on any python IDE
 2. It will show the data train plot, accuracy, and result of classification to test data
-3. Accuracy will be different each run, because the data split randomly each run too
+3. Accuracy will be different on each run, because the data split randomly on each run too
